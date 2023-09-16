@@ -38,3 +38,5 @@ registerRoute(
     ],
   })
 );
+
+offlineFallback({ pageFallback: '/index.html' });
