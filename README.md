@@ -19,6 +19,8 @@ A single-page text editor that meets Progressive Web Application criteria. It fe
 ## Usage
 Visit the deployed application [here](https://fathomless-meadow-23977-e325636682a3.herokuapp.com/).
 
+![text-editor-screenshot](https://github.com/averyjmiller/PWA-text-editor/assets/54604339/e92de973-40b5-4fa8-bf8b-ac18c555eeac)
+
 ## License
 This repository is covered under MIT License. For more information, check the `LICENSE` file.
 
